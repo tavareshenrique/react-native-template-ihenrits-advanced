@@ -6,7 +6,7 @@ import styles from './styles';
 
 const Main = () => (
   <View style={styles.container}>
-    <Text style={styles.welcome}>Welcome to @ihenrits React Native Template Basic</Text>
+    <Text style={styles.welcome}>Welcome to @ihenrits React Native Template Advanced</Text>
   </View>
 );
 
