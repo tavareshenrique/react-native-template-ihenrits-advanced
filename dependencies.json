@@ -1,0 +1,17 @@
+{
+  "@react-native-community/async-storage": "^1.4.2",
+  "axios": "^0.19.0",
+  "eslint-import-resolver-root-import": "^1.0.4",
+  "prop-types": "^15.7.2",
+  "react-native-gesture-handler": "^1.2.2",
+  "react-native-status-bar-height": "^2.3.1",
+  "react-native-vector-icons": "^6.4.2",
+  "react-navigation": "^3.11.0",
+  "reactotron-react-native": "^3.6.0",
+  "react-redux": "^7.0.3",
+  "reactotron-redux": "^3.1.0",
+  "reactotron-redux-saga": "^4.2.2",
+  "redux": "^4.0.1",
+  "redux-saga": "^1.0.2",
+  "styled-components": "^4.2.1"
+}
